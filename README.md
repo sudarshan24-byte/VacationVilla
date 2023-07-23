@@ -1,7 +1,7 @@
 
-# EatWell - The Vegan Food
+# VacationVilla
 
-EatWell is a Frontend Website template of a Vegan Restaurant
+VacationVilla is a Frontend Website template
 
 
 
